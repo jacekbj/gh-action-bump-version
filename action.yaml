@@ -1,0 +1,5 @@
+name: 'Bump version'
+description: 'Bump version depending on label.'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
